@@ -1,2 +1,1 @@
-# discord.py
-I will help you understand discord.py!
+# PART 1 - STARTUP 
